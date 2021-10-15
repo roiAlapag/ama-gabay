@@ -1,0 +1,26 @@
+{
+  "name": "ama-gabay",
+  "version": "1.0.0",
+  "description": "gabay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roiAlapag/ama-gamay.git"
+  },
+  "keywords": [
+    "gabay"
+  ],
+  "author": "lastname",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roiAlapag/ama-gamay/issues"
+  },
+  "homepage": "https://github.com/roiAlapag/ama-gamay#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
