@@ -73,5 +73,5 @@ Moreover, the design of the Web Application is consistent all throughout the web
 ![typo](/images/typography.png)
 
 ***
-We have shared our prototpe with you sir to give you access. Please do check your email. Thank you very much.
+We have shared our prototype with you sir to give you access. Please do check your email. Thank you very much.
 
