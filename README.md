@@ -11,7 +11,7 @@ In our web application, you will see different interfaces depending on their rol
 ***
 
 ## Prototype for doctors side
-This link [Figma - Doctor Prototype](https://www.figma.com/proto/roc86Np8e0an1xkdb0tPPK/web-idea?node-id=155%3A309&starting-point-node-id=155%3A309) 
+This link [Figma - Doctor Prototype](https://www.figma.com/proto/roc86Np8e0an1xkdb0tPPK/web-idea?node-id=91%3A594&starting-point-node-id=91%3A484&scaling=scale-down) 
 
 _Registered as Doctor_
 
@@ -42,7 +42,7 @@ When a user has registered as a patient, they can create an appointment by click
 ***
 ## Prototype for admin side
 
-This link [Figma - Admin Prototype](https://www.figma.com/proto/roc86Np8e0an1xkdb0tPPK/web-idea?node-id=155%3A309&starting-point-node-id=155%3A309) 
+This link [Figma - Admin Prototype](https://www.figma.com/proto/roc86Np8e0an1xkdb0tPPK/web-idea?node-id=155%3A699&starting-point-node-id=133%3A2&scaling=scale-down) 
 
 _Admin_
 
